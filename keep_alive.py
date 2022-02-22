@@ -1,3 +1,5 @@
+#do not execute this file if you are hosting your own bot in a docker or other environment
+
 from flask import Flask
 from threading import Thread
 
